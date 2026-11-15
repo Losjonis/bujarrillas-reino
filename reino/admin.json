@@ -1,0 +1,11 @@
+{
+  "v": 1,
+  "kdf": "scrypt",
+  "N": 131072,
+  "r": 8,
+  "p": 1,
+  "salt": "vT/2DQYiYFTAyeZXh/Y7JA==",
+  "iv": "a4xTW7bDvCjuwYUJ",
+  "tag": "fym3JqhO41umpLwVa6L4Qg==",
+  "data": "c2D6PwQvk/DrlXmBEoLurXW2CWcBqGJ6EfBpD938D2Uh8/m/di/fSxTeM9A8xHTKF6zBkl9atn8EHQZDxaAp/iIo2P3A7Bax9sSssSue/vDGSblupKba/IyjaNEe"
+}
