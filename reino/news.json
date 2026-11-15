@@ -1,0 +1,39 @@
+{
+  "splashes": [
+    "¡Huzzah!",
+    "¡Por Bujarrillas!",
+    "¡Con dragones!",
+    "¡Más de 90 mods!",
+    "¡Ahora con laúd!",
+    "¡Cuidado con el herrero!",
+    "¡Hidromiel gratis!",
+    "¡Deus vult!",
+    "¡NeoForge 1.21.1!",
+    "¡Sin bugs (casi)!",
+    "¡Vasallos bienvenidos!",
+    "¡Paga el diezmo!",
+    "¡Hecho a mano!",
+    "¡Que viva el rey!",
+    "¡Ojo con las brujas!"
+  ],
+  "news": [
+    {
+      "id": "mwhyeusa-0-te9g",
+      "title": "Se alzan los muros de Bujarrillas",
+      "date": "2026-11-15",
+      "tag": "Novedad",
+      "icon": "castle",
+      "body": "Por orden del Consejo, hoy se colocan las primeras piedras del reino. Los maestros de obra preparan el servidor y el nuevo launcher ya está en manos de los vasallos.\nPronto se abrirán las puertas a todos los aventureros.",
+      "sign": "— El Consejo de Bujarrillas"
+    },
+    {
+      "id": "mwhyeusa-1-bq7z",
+      "title": "El Grimorio está completo",
+      "date": "2026-11-12",
+      "tag": "Edicto",
+      "icon": "book",
+      "body": "Los sabios han reunido más de noventa encantamientos: dragones, hechicería, cocina de Farmer's Delight, mochilas, piedras de viaje (Waystones) y mucho más.\nNo cambies los mods por tu cuenta o la guardia te negará la entrada.",
+      "sign": "— El Archimago"
+    }
+  ]
+}
