@@ -16,15 +16,5 @@
     "¡Que viva el rey!",
     "¡Ojo con las brujas!"
   ],
-  "news": [
-    {
-      "id": "mwhyeusa-1-bq7z",
-      "title": "El Grimorio está completo",
-      "date": "2026-11-12",
-      "tag": "Edicto",
-      "icon": "book",
-      "body": "Los sabios han reunido más de noventa encantamientos: dragones, hechicería, cocina de Farmer's Delight, mochilas, piedras de viaje (Waystones) y mucho más.\nNo cambies los mods por tu cuenta o la guardia te negará la entrada.",
-      "sign": "— El Archimago"
-    }
-  ]
+  "news": []
 }
